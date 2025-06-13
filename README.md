@@ -20,7 +20,7 @@
 
 ```
 Unet-jittor/
-├── checkpoints_consep/     # ConsEP数据集模型检查点  里面有Unet和U2netS的模型检查点
+├── checkpoints_consep/     # ConsEP数据集模型检查点  里面有Unet和U2netS的模型检查点 文件较大没有上传，运行中可以自己生成
 ├── checkpoints_ISBC/       # ISBC数据集模型检查点    里面有Unet和U2netS的模型检查点
 ├── data/                   # 数据目录              包括ISBC2012和consep
 ├── logs_consep/           # ConsEP训练日志         里面有Unet和U2netS的实验log
