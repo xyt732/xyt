@@ -125,12 +125,12 @@ python Main.py \
 
 ```
 
-## 弹性形变复现 左边是原图 右边是变换后的图片
+## 弹性形变复现 上边是原图 下边是变换后的图片
 
 ![本地图片](./PNG/elasticity_original.png "原图") ![本地图片](./PNG/elasticity_transform.png "变换后的图片")
 
 
-## 损失函数复现 左边是标签 右边是权重图(颜色越深权重越高)
+## 损失函数复现 上边是标签 下边是权重图(颜色越深权重越高)
 
 ![本地图片](./PNG/weight_original.png "标签图") ![本地图片](./PNG/weight_map.png "权重图")
 
