@@ -15,7 +15,7 @@
 程序实际运行并不会生成这些文件夹，会生成checkpoints、DataTxt、logs、results、weight_maps文件夹。
 
     下面只展示了jittor框架下的代码，pytorch框架下的代码逻辑和运行方法和jittor一样。
-    pytorch框架链接:
+    pytorch框架链接:https://github.com/xyt732/pytorch-Unet
 ## 项目结构
 
 ```
